@@ -1,0 +1,17 @@
+h1{
+    color:#C547FF
+}
+*{
+    border:solid
+}
+.abc{
+    background-color:#CD5C5C;
+    display: flex;
+    justify-content:space-between ;
+
+}
+.grid{
+    background-color:#00FFFF;
+    display: flex;
+    justify-content: space-between;
+}
